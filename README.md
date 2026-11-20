@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi, I'm Huzaifa Tanveer 👋
 
-<!--
-**huzaifat2007-sudo/huzaifat2007-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **BS in Computer Network and Security** student at **Sir Syed University of Engineering & Technology (SSUET)** in Karachi. Alongside my core engineering and programming studies, I work on **video editing** and **Canva design**, combining technical problem-solving with clean visual presentation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📚 Coursework & Technical Areas
+- **Programming & Core CS:** C (Introduction to Programming), Java (Object-Oriented Programming), Python (Data Structures)
+- **Software Engineering & Hardware:** UML Diagrams & Software Development Teams, Digital Logic Design (Logic Gates & Circuit Design)
+- **Creative & Design:** Video Editing, Canva Design, Visuals & Thumbnails
+
+---
+
+#### 🛠️ Tools & Languages
+- **Languages:** C, Java, Python
+- **Concepts & Design:** OOP, Data Structures, UML Diagrams, Circuit Design (DLD)
+- **Creative & Productivity:** Canva, Video Editing Tools, Git, GitHub
+
+---
+
+#### 📌 What I'm Building & Exploring
+- Implementing **Data Structures in Python** and **OOP concepts in Java**
+- Documenting **UML diagrams**, project workflows, and **Digital Logic Design** circuits
+- Creating engaging **video edits** and **Canva designs**
+
+---
+
+#### 📫 Connect With Me
+- **University:** Sir Syed University of Engineering & Technology (SSUET), Karachi
+- **Email:** huzaifat2007@gmail.com
+- **Portfolio / Showreel:** [Optional link to Canva, YouTube, Drive, or LinkedIn]
