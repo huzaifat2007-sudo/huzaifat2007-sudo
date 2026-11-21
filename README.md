@@ -26,3 +26,5 @@ I'm a **BS in Computer Network and Security** student at **Sir Syed University o
 ---
 
 #### 🌐 Socials
+https://www.instagram.com/huzaifa_3527?dmpr=aGxlMGk0ZDlscXh2
+https://discord.com/users/1573410659864150049
