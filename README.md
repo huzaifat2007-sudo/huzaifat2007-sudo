@@ -25,7 +25,4 @@ I'm a **BS in Computer Network and Security** student at **Sir Syed University o
 
 ---
 
-#### 📫 Connect With Me
-- **University:** Sir Syed University of Engineering & Technology (SSUET), Karachi
-- **Email:** huzaifat2007@gmail.com
-- **Portfolio / Showreel:** [Optional link to Canva, YouTube, Drive, or LinkedIn]
+#### 🌐 Socials
